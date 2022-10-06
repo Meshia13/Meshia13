@@ -1,7 +1,7 @@
 ### Hi, I'm Carmeshia 👩🏽‍💻👋🏾
 
 #### Data-driven Specialist
-![Data-driven Specialist]
+![Data-driven Specialist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 SKILLS:
