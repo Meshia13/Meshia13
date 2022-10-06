@@ -5,8 +5,14 @@
 
 
 SKILLS:
+
+
 *🐍 Python
+
+
 *📝 SQL
+
+
 *📊 Tableau
 
 
