@@ -1,9 +1,8 @@
 ### Hi, I'm Carmeshia 👩🏽‍💻👋🏾
 
 #### Data-driven Specialist
-![Data-driven Specialist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data-driven Specialist]
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 SKILLS:
 *🐍 Python
