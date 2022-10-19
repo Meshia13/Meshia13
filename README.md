@@ -1,6 +1,6 @@
 ### Hi, I'm Carmeshia 👩🏽‍💻👋🏾
 
-#### Data-driven Specialist
+#### Data developer with analysis and engineering experience using modern programming languages, data engineering tools and frameworks.
 
 
 
