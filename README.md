@@ -15,10 +15,11 @@
   <img align="left" alt="mysql" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 
+<hr>
+
+#### PORTFOLIO:
 
 
-
-#### PORTFOLIO
 [live demo](https://meshia13.github.io/Web-Portfolio/)
 
 
