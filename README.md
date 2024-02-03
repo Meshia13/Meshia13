@@ -25,7 +25,6 @@ I'm a developer who believes in continuous learning. I have an associates degree
 
 <br> 
 <br> 
-<br> 
 
 #
 
