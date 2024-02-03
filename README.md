@@ -8,9 +8,7 @@ I'm a developer who believes in continuous learning. I have an associates degree
 
 
 ## PORTFOLIO:
-  <p>
-    Below is my portfolio piece showcasing the projects I have completed and is currently working on.
-  </p>
+  Below is my portfolio piece showcasing the projects I have completed and is currently working on.
   
   [Carmeshia's Portfolio](https://meshia13.github.io/Web-Portfolio/)
 
