@@ -15,7 +15,7 @@
 <img align="left" alt="mysql" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 
-#
+<hr>
 
 <h3>My Portfolio</h3>
 [live demo](https://meshia13.github.io/Web-Portfolio/)
