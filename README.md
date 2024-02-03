@@ -18,9 +18,7 @@
 
 
 
-<hr>
-
-<h3>My Portfolio</h3>
+### <h3>My Portfolio</h3>
 [live demo](https://meshia13.github.io/Web-Portfolio/)
 
 
