@@ -1,23 +1,19 @@
 ### Hi, I'm Carmeshia 👩🏽‍💻👋🏾
 
-#### Data developer with analysis and engineering experience using modern programming languages, data engineering tools and frameworks.
-
+####  Software Engineer with a high degree of knowledge in modern programming languages, frameworks.
 
 
 SKILLS:
 
 
-*🐍 Python
-
-
-*📝 SQL
-
-
-*📊 Tableau
+*HTML
+*CSS
+*JavaScript
+*SQL
 
 
 
-- 🌱 I’m currently learning AWS  
+- 🌱 I’m currently Full Stack Web Development  
 
 - 🖇 Current Project: [Wedded Bliss - Web Development Project](https://github.com/Meshia13/WeddedBliss)
 
