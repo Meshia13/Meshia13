@@ -24,6 +24,7 @@ I'm a developer who believes in continuous learning. I have an associates degree
   <img align="left" alt="mysql" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </p>
 
+## Other:
 
 
 
