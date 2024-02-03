@@ -1,7 +1,8 @@
 ### Hi, I'm Carmeshia 👩🏽‍💻👋🏾
 
-####  Software Engineer with a high degree of knowledge in modern programming languages, frameworks.
+**`Frontend Developer/Software Engineer`**
 
+####  I'm a developer who believes in continuous learning. I have an associates degree in Information Technology. I'm currently learning Full-Stack Web Development with the help of youtube videos and self-paced courses. I have acquired experience in HTML, CSS, SQL and JavaScript. I've created projects based upon the skills that I've learned. My learning style is a mixture of reading and hands-on. I've created a portfolio showcasing my work. Enjoy!
 
 SKILLS:
 
@@ -13,10 +14,5 @@ SKILLS:
 
 
 
-- 🌱 I’m currently Full Stack Web Development  
 
-- 🖇 Current Project: [Wedded Bliss - Web Development Project](https://github.com/Meshia13/WeddedBliss)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Meshia13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Meshia13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carmeshia-lazzana-bab06216b/)  
 
