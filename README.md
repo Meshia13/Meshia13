@@ -16,25 +16,17 @@
 
 
 <hr>
-
-
-
-
-
-
+#
 
 
 #### PORTFOLIO:
-
-
-
 
 
 <p>
   Below is my portfolio piece showcasing the projects I have completed and is currently working on.
 </p>
 
-[live demo](https://meshia13.github.io/Web-Portfolio/)
+[Carmeshia's Portfolio](https://meshia13.github.io/Web-Portfolio/)
 
 
 
