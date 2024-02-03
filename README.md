@@ -17,7 +17,19 @@
 
 <hr>
 
+
+
+
+
+
+
+
 #### PORTFOLIO:
+
+
+
+
+
 <p>
   Below is my portfolio piece showcasing the projects I have completed and is currently working on.
 </p>
