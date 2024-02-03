@@ -12,6 +12,8 @@ I'm a developer who believes in continuous learning. I have an associates degree
   
   [Carmeshia's Portfolio](https://meshia13.github.io/Web-Portfolio/)
 
+  <hr>
+
 
 ## SKILLS:
 
