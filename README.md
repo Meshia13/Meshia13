@@ -29,7 +29,7 @@ I'm a developer who believes in continuous learning. I have an associates degree
 #
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Meshia13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+//![](https://github-readme-stats.vercel.app/api?username=Meshia13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Meshia13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meshia13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
