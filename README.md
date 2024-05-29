@@ -2,17 +2,9 @@
 
 **`Frontend Developer/Software Engineer`**
 
-I'm a developer who believes in continuous learning. I have an associates degree in Information Technology. I'm currently learning Full-Stack Web Development with the help of youtube videos and self-paced courses. I have acquired experience in HTML, CSS, SQL and JavaScript. I've created projects based upon the skills that I've learned. My learning style is a mixture of reading and hands-on. I've created a portfolio showcasing my work. Enjoy!
+I'm a developer who believes in continuous learning. I'm currently developing my skills with Udacity Frontend Web Development Nanodegree program. I have acquired experience in HTML, CSS, and JavaScript. 
 
 <hr>
-
-
-## PORTFOLIO:
-  Below is my portfolio piece showcasing the projects I have completed and is currently working on.
-  
-  [Carmeshia's Portfolio](https://meshia13.github.io/Web-Portfolio/)
-
-  <hr>
 
 
 ## SKILLS:
